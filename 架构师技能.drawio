@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T01:03:50.550Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.4" etag="wmVy5bo7Dxvy48jCLlxz" type="github">
-  <diagram name="第 1 页" id="RyQaQbnAk6dZ1AbYYGGr">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-10-09T01:46:24.546Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="COOQYXeWuqXj49aAVg6h" version="22.0.4" type="github">
+  <diagram name="架构师学习路线" id="RyQaQbnAk6dZ1AbYYGGr">
+    <mxGraphModel dx="1434" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GVuMBtId1PWGP_Z1NwH8-1" value="底层信息世界是如何构建的" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVuMBtId1PWGP_Z1NwH8-2" value="架构思维范式的运用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="170" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVuMBtId1PWGP_Z1NwH8-3" value="可自我迭代的计算机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVuMBtId1PWGP_Z1NwH8-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="280" width="180" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
