@@ -1,20 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T01:46:24.546Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="COOQYXeWuqXj49aAVg6h" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T01:30:34.305Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="069ph7IVLpl36FU8HNVk" version="22.0.4" type="github" pages="3">
   <diagram name="架构师学习路线" id="RyQaQbnAk6dZ1AbYYGGr">
     <mxGraphModel dx="1434" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GVuMBtId1PWGP_Z1NwH8-1" value="底层信息世界是如何构建的" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GVuMBtId1PWGP_Z1NwH8-1" value="底层信息世界是如何构建的" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="170" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GVuMBtId1PWGP_Z1NwH8-2" value="架构思维范式的运用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GVuMBtId1PWGP_Z1NwH8-2" value="架构思维范式的运用" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="170" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GVuMBtId1PWGP_Z1NwH8-3" value="可自我迭代的计算机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GVuMBtId1PWGP_Z1NwH8-3" value="可自我迭代的计算机" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="280" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GVuMBtId1PWGP_Z1NwH8-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="280" width="180" height="60" as="geometry" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RSeSjhe33FLG97bLGZgg" name="架构设计的宏观视角">
+    <mxGraphModel dx="1434" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g_hRoQG6C4pjK398Y9lW-1" value="架构设计的宏观视角" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_hRoQG6C4pjK398Y9lW-2" value="冯诺依曼体系架构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="450" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_hRoQG6C4pjK398Y9lW-3" value="基础软件（操作系统/编程语言/各种中间件）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="380" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_hRoQG6C4pjK398Y9lW-4" value="应用程序框架及各类基础库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_hRoQG6C4pjK398Y9lW-5" value="业务架构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="280" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JuZANDNUu7Cw-0q5avco" name="编程语言的发展">
+    <mxGraphModel dx="1434" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n2WIOzo_ocziiBnk43sT-1" value="程序刻在硬盘存储上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2WIOzo_ocziiBnk43sT-2" value="CPU指令序列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2WIOzo_ocziiBnk43sT-3" value="计算机主板ROM可以存方启动程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2WIOzo_ocziiBnk43sT-4" value="程序是指令翻译成二进制的比特数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2WIOzo_ocziiBnk43sT-5" value="CPU指令序列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2WIOzo_ocziiBnk43sT-6" value="汇编语言" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2WIOzo_ocziiBnk43sT-7" value="编译器将汇编语言写的程序翻译成CPU指令序列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2WIOzo_ocziiBnk43sT-8" value="过程式编程&lt;br&gt;（结构体和过程）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2WIOzo_ocziiBnk43sT-9" value="函数式编程&lt;br&gt;（过程式的约束）&lt;br&gt;（核心：入参不可变，函数无副作用）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2WIOzo_ocziiBnk43sT-10" value="面向对象&lt;br&gt;（在过程式基础上引入对象和对象方法）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
