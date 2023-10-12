@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T01:36:56.990Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ZwRKU1TsfW3Swcf56hHw" version="22.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-10-12T01:22:56.617Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="coXDMVRK4UM9WBqrsl_j" version="22.0.4" type="github" pages="8">
   <diagram name="架构师学习路线" id="RyQaQbnAk6dZ1AbYYGGr">
     <mxGraphModel dx="1434" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JuZANDNUu7Cw-0q5avco" name="编程语言的发展">
-    <mxGraphModel dx="1434" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,14 +68,14 @@
         <mxCell id="n2WIOzo_ocziiBnk43sT-10" value="面向对象&lt;br&gt;（在过程式基础上引入对象和对象方法）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NCA095UUZdVhkeSI6wS_-1" value="面向链接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NCA095UUZdVhkeSI6wS_-1" value="面向链接" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="t6NMQPQg2JVm3rFJSH--" name="计算机架构">
-    <mxGraphModel dx="2261" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2069" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,81 +121,136 @@
         <mxCell id="dgO8xaRQnZLO9BpoLLoh-23" value="LS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bT97ZtjpS-1yY-j8Ayt5-1" value="发展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bT97ZtjpS-1yY-j8Ayt5-1" value="发展" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-90" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="yXMIK2L5dwc7iJZG8DNO" name="操作系统">
-    <mxGraphModel dx="1434" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wAGaskBssCRJe64OVL5i-1" value="存储" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="wAGaskBssCRJe64OVL5i-1" value="存储" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="360" y="170" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wAGaskBssCRJe64OVL5i-3" value="进程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wAGaskBssCRJe64OVL5i-3" value="进程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="260" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="wAGaskBssCRJe64OVL5i-4" value="输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wAGaskBssCRJe64OVL5i-4" value="输入" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="430" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wAGaskBssCRJe64OVL5i-5" value="输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wAGaskBssCRJe64OVL5i-5" value="输出" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="430" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wAGaskBssCRJe64OVL5i-6" value="网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wAGaskBssCRJe64OVL5i-6" value="网络" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="260" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wAGaskBssCRJe64OVL5i-8" value="安全" style="shape=xor;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+        <mxCell id="wAGaskBssCRJe64OVL5i-8" value="安全" style="shape=xor;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
           <mxGeometry x="330" y="100" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wAGaskBssCRJe64OVL5i-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rotation=150;" vertex="1" parent="1">
+        <mxCell id="wAGaskBssCRJe64OVL5i-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rotation=150;" parent="1" vertex="1">
           <mxGeometry x="230" y="190" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wAGaskBssCRJe64OVL5i-10" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wAGaskBssCRJe64OVL5i-10" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="270" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wAGaskBssCRJe64OVL5i-11" value="银联" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="wAGaskBssCRJe64OVL5i-11" value="银联" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="540" y="220" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wAGaskBssCRJe64OVL5i-12" value="APP Store" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="wAGaskBssCRJe64OVL5i-12" value="APP Store" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="630" y="120" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="7-KXrjns_OpoBmIgu1iZ" name="操作系统定位">
-    <mxGraphModel dx="1434" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="7-KXrjns_OpoBmIgu1iZ" name="操作系统地位">
+    <mxGraphModel dx="1242" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3FhOAOeDKRcffeMJ394b-1" value="硬件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3FhOAOeDKRcffeMJ394b-1" value="硬件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3FhOAOeDKRcffeMJ394b-2" value="操作系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3FhOAOeDKRcffeMJ394b-2" value="操作系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3FhOAOeDKRcffeMJ394b-3" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3FhOAOeDKRcffeMJ394b-3" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3FhOAOeDKRcffeMJ394b-4" value="核心软件治理，多个软件和谐共处" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3FhOAOeDKRcffeMJ394b-4" value="核心软件治理，多个软件和谐共处" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3FhOAOeDKRcffeMJ394b-5" value="提供基础的编程接口，降低开发难度" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3FhOAOeDKRcffeMJ394b-5" value="提供基础的编程接口，降低开发难度" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3FhOAOeDKRcffeMJ394b-7" value="客户角度" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3FhOAOeDKRcffeMJ394b-7" value="客户角度" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3FhOAOeDKRcffeMJ394b-8" value="商业角度" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3FhOAOeDKRcffeMJ394b-8" value="商业角度" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3FhOAOeDKRcffeMJ394b-9" value="流量入口（兵家必争之地）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3FhOAOeDKRcffeMJ394b-9" value="流量入口（兵家必争之地）" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3FhOAOeDKRcffeMJ394b-11" value="账号-支付-应用市场" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3FhOAOeDKRcffeMJ394b-11" value="账号-支付-应用市场" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8CIsCvJWa3kl9Cnr8Oz3" name="汇编学习">
+    <mxGraphModel dx="1242" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fF4BAAel63Qpuykv9qVZ-3" value="&lt;h1&gt;怎样快速学好汇编语言？&lt;/h1&gt;&lt;p&gt;建议从下至上的去理解电脑在做什么，汇编语言自然就简单了。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;先了解一个三极管是怎么输入信号后拉低输出的，这样就做出来了一个非门。然后两个三极管怎么做一个与非门。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;与非门怎么搭建非门（连接两个输入）&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;与非门怎么搭建与门（输出加一个非门）&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;以及搭建或门，或非门，异或门，同或门&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;以上具体可以去查三极管和nand，以及nand搭建其它门电路。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;然后是锁存器，加法器，译码器&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;然后弄明白算数运算单元，寄存器，比较器，程序计数器。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;自己做一颗可以执行简单命令的cpu&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;不断扩展各种指令，比如不同长度的数值运算，32位，64位寄存器的使用，内存保护啥的，想做什么就做什么。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;可以试试logisim一个很小的java程序，可以模拟电路。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;或者图灵完备（游戏Turing Complete，steam售价大概68）&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;也可以试试minecraft来搭建计算机（需要当肝帝）&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;最后，汇编语言只是机器码的助记符，想弄明白汇编在干什么，最好还是需要弄明白cpu在干什么，以及你想让cpu干什么。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;做一个最简单的cpu，只需要可以完成寄存器，加减运算，数据搬运，数据比较后条件跳转就可以了。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;如果你要做一个cpu，你需要实现以下指令&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;add，sub，and，or，xor，cmp，not，mov&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;还要对寄存器对寄存器，寄存器对内存地址操作&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;另外一个指令就是把立即数传递到寄存器&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;最后就是跳转指令，比如jmp，je，ja，jb，jae，jbe以及not版本。所有的跳转都需要用cmp指令比较后的寄存器进行跳转。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;如果你不考虑效率，可以不做寄存器对内存的指令，所有内存数据都需要通过mov 方向标志 寄存器 内存地址完成。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;也可以叫做load 寄存器 地址，以及save 寄存器 地址&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="710" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FoGl117h2P-oEraV0FLO" name="计算机运行全过程">
+    <mxGraphModel dx="1242" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GBPa_GInyIetyqvlm0T5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBPa_GInyIetyqvlm0T5-1" target="GBPa_GInyIetyqvlm0T5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBPa_GInyIetyqvlm0T5-1" value="BIOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GBPa_GInyIetyqvlm0T5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBPa_GInyIetyqvlm0T5-2" target="GBPa_GInyIetyqvlm0T5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBPa_GInyIetyqvlm0T5-2" value="引导区运行程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GBPa_GInyIetyqvlm0T5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBPa_GInyIetyqvlm0T5-4" target="GBPa_GInyIetyqvlm0T5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBPa_GInyIetyqvlm0T5-4" value="OS引导区" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GBPa_GInyIetyqvlm0T5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBPa_GInyIetyqvlm0T5-6" target="GBPa_GInyIetyqvlm0T5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBPa_GInyIetyqvlm0T5-6" value="OS Shell程序" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GBPa_GInyIetyqvlm0T5-8" value="软件2" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GBPa_GInyIetyqvlm0T5-10" value="软件1" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GBPa_GInyIetyqvlm0T5-11" value="软件N" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GBPa_GInyIetyqvlm0T5-12" value="关机" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
