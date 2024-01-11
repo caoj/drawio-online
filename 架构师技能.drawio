@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T01:16:32.943Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vsz467qF0Yle5Se78U8Y" version="22.1.18" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-01-11T01:38:11.140Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0Hc2SmRaz3V-G2l19Q_e" version="22.1.18" type="github" pages="13">
   <diagram name="架构师学习路线" id="RyQaQbnAk6dZ1AbYYGGr">
     <mxGraphModel dx="1434" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -450,6 +450,137 @@
         </mxCell>
         <mxCell id="LAq-8KGNhPfUQFWcZqGz-20" value="架构师全局观" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fPrlgSiUii2nHQnGH4sT" name="架构优劣">
+    <mxGraphModel dx="2261" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DpInEvulncU-qtxLY5VY-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-1" target="DpInEvulncU-qtxLY5VY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-1" target="DpInEvulncU-qtxLY5VY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-1" target="DpInEvulncU-qtxLY5VY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-1" target="DpInEvulncU-qtxLY5VY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-1" value="架构设计的基本准则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-2" target="DpInEvulncU-qtxLY5VY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-2" value="KISS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-3" target="DpInEvulncU-qtxLY5VY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-3" value="Modularity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-6" target="DpInEvulncU-qtxLY5VY-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-6" value="着眼于模块而不是框架" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-8" target="DpInEvulncU-qtxLY5VY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-8" value="Keep it Simple, Stupid！简单比复杂好。正确理解系统的需求之后才进行设计。要避免过度设计，除非有人为复杂性买单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-40" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-10" target="DpInEvulncU-qtxLY5VY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-10" value="Testable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-11" target="DpInEvulncU-qtxLY5VY-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-11" value="保证可测试性" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-13" target="DpInEvulncU-qtxLY5VY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-13" value="Orthogonal Decomposition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-14" target="DpInEvulncU-qtxLY5VY-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-14" value="正交分解" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-16" target="DpInEvulncU-qtxLY5VY-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-16" target="DpInEvulncU-qtxLY5VY-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-16" target="DpInEvulncU-qtxLY5VY-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-16" value="简单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-18" value="易实施" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-20" value="代码接口符合惯例" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-21" value="接口语义自然，见名知意" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-25" target="DpInEvulncU-qtxLY5VY-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-25" target="DpInEvulncU-qtxLY5VY-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-25" target="DpInEvulncU-qtxLY5VY-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-25" value="模块化" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-27" value="接口规格，接口定义比实现机制更重要" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-29" value="接口定义抽象为普适通用的场景" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-31" value="着眼模块而不是框架，框架是易变的，框架是业务流可复用性低" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-33" target="DpInEvulncU-qtxLY5VY-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-33" value="可测试性为第一目标" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-35" value="可测试意味着低耦合" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DpInEvulncU-qtxLY5VY-37" target="DpInEvulncU-qtxLY5VY-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-37" value="架构就是对系统不断进行正交分解的过程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DpInEvulncU-qtxLY5VY-39" value="组合优于继承，组合是乘法，继承是加法" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
